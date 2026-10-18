@@ -1,0 +1,23 @@
+{
+    "name": "dfr1216",
+    "version": "0.1.0",
+    "description": "DFRobot DFR1216 Multi-Function Expansion Board (Power & Motion): RGB LEDs, servos, motors, battery, IR, ultrasonic, GPIO",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "LICENSE",
+        "main.ts",
+        "_locales/de/dfr1216-strings.json",
+        "_locales/de/dfr1216-jsdoc-strings.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "tsprj"
+}
